@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/romikathangaraj.github.io/react_project/static/css/main.5b76804e.css",
+    "main.js": "/romikathangaraj.github.io/react_project/static/js/main.337097a4.js",
+    "index.html": "/romikathangaraj.github.io/react_project/index.html",
+    "main.5b76804e.css.map": "/romikathangaraj.github.io/react_project/static/css/main.5b76804e.css.map",
+    "main.337097a4.js.map": "/romikathangaraj.github.io/react_project/static/js/main.337097a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b76804e.css",
+    "static/js/main.337097a4.js"
+  ]
+}
